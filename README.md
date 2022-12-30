@@ -23,7 +23,7 @@ https://miro.com/app/board/uXjVPKAz1i4=/?share_link_id=218530192751 (https://mir
 
 | picture 1         | picture 2           |
 |--------------|----------------|
-| <img src="1.png" width="300"/> | <img src="2.png" width="300"/>      |
+| <img src="1.png" width="300"/> | <img src="1.png" width="300"/>      |
 
 ## Packages
 * https://pub.dev/packages/webview_flutter
